@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "med_abs_track_frontend",
+			"path": "med_abs_track_frontend"
+		},
+		{
+			"name": "med_abs_track_backend",
+			"path": "med_abs_track_backend"
+		}
+	]
+}
